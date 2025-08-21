@@ -1,0 +1,18 @@
+
+    {
+        "version": "0.2.0",
+        "configurations": [
+          {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Abrir index.html como móvil",
+            "file": "/Users/kemutd/Documents/pollitochicfornolab.com/index.html",
+            "runtimeArgs": [
+              "--auto-open-devtools-for-tabs"
+            ],
+            "sourceMaps": true
+          }
+        ]
+      }
+
+     
